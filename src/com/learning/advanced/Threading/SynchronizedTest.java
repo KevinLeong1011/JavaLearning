@@ -1,4 +1,4 @@
-package com.learning.advanced.Threading;
+package com.learning.advanced.threading;
 
 public class SynchronizedTest {
 	public static void main(String[] args) {

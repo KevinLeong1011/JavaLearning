@@ -1,4 +1,4 @@
-package com.learning.advanced.Threading;
+package com.learning.advanced.threading;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
